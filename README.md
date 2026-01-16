@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git repository.
 <br>
-Author - Antor shakib hossen 
+Author - Antor shakib hossen (solo)
